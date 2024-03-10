@@ -9,3 +9,5 @@
 ![3ss](https://github.com/ChittimShalini/CODSOFT/assets/120195896/ea24577b-b1d9-4328-b2a7-b8d9f56bfa61)
 
 #IRIS_FLOWER_CLASSIFICATION
+![screenshot1](https://github.com/ChittimShalini/CODSOFT/assets/120195896/0725a336-2d85-4720-b72c-95ab86d10428)
+![screenshot2](https://github.com/ChittimShalini/CODSOFT/assets/120195896/361c0b90-af53-4ca2-8bc7-a111e168c3dd)
